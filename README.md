@@ -2,6 +2,22 @@
 
 
 
+\## 🌐 Live Demo
+
+
+
+\*\*Deployed on Railway:\*\* \[https://your-app.up.railway.app](https://your-app.up.railway.app)
+
+
+
+> The system is live and running autonomously on the cloud!
+
+
+
+\[!\[Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/autonomous-ai-agent)
+
+
+
 > Ever wondered what happens when you give AI agents their own team? This is my attempt at building that - a system where specialized AI agents work together to solve complex tasks autonomously.
 
 
